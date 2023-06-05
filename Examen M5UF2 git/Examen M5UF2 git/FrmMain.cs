@@ -16,5 +16,17 @@ namespace Examen_M5UF2_git
         {
             InitializeComponent();
         }
+
+        private void btMenjar_Click(object sender, EventArgs e)
+        {
+            FrmMenjar frmMenjar = new FrmMenjar();
+            frmMenjar.Show();
+        }
+
+        private void btViatge_Click(object sender, EventArgs e)
+        {
+            FrmViatge frmViatge = new FrmViatge();
+            frmViatge.Show();
+        }
     }
 }

@@ -14,3 +14,10 @@ git push origin master
 // Versio 3
 git touch gitignore
 git add .
+git commit -m "Versio 3"
+git push origin master
+
+// Versio 4
+git add .
+git commit -m "Versio 4"
+git push origin master
