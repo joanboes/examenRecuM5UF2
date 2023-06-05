@@ -27,3 +27,12 @@ git push origin master
 git add .
 git commit -m "Versio 5"
 git push origin master
+
+//Versio 6
+git branch ampliacio
+git checkout amplaicio
+git add .
+git commit -m "Versio 6"
+git push origin master
+
+
