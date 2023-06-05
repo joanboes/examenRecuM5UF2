@@ -28,5 +28,11 @@ namespace Examen_M5UF2_git
             FrmViatge frmViatge = new FrmViatge();
             frmViatge.Show();
         }
+
+        private void btAnimal_Click(object sender, EventArgs e)
+        {
+            FrmAnimal frmAnimal = new FrmAnimal();
+            frmAnimal.Show();
+        }
     }
 }

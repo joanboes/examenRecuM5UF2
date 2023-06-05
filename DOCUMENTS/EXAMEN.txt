@@ -21,3 +21,9 @@ git push origin master
 git add .
 git commit -m "Versio 4"
 git push origin master
+
+// Versio 5
+-- Al commit m'he ovlidat i he posat versio 4
+git add .
+git commit -m "Versio 5"
+git push origin master
