@@ -1,1 +1,16 @@
 mkdir examenRecuM5uF2
+git init
+git remote add origin https://github.com/joanboes/examenRecuM5UF2.git
+git add .
+git commit -m "Versio 1"
+git push origin master
+
+//Versio 2
+touch LICENSE
+git add .
+git commit -m "Versio 2"
+git push origin master
+
+// Versio 3
+git touch gitignore
+git add .
