@@ -35,4 +35,6 @@ git add .
 git commit -m "Versio 6"
 git push origin master
 
-
+/Versio 7
+git checkout master
+git merge ampliacio
